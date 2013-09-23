@@ -1,0 +1,25 @@
+     We am enclosing Abstract,application & source codes for my entry for Kriti-Open Software Contest. We have made a Online Testing Solution named as ExamOnline in server side java(java servlets) with Mysql database as backend. With this solution u can conduct online test e.g. for certification,mock IIT test etc.
+
+We have our solution online on http://examonline.net4engineers.com 
+
+For taking test u can go to Test-taker section & register as a new user for first time & then use ur usernaem & password for user-login to ur control panel from where u can take test, view ur scores,change ur account information etc.we have put a C test online so u can take test to view user side view of testing solution
+
+To administer the test go to administrators section.and we have created a admin account for u that is 
+username: mystica 
+password : mystica
+in ur control panel u can adminster tests e.g. create new test,delete tests made by u, start the tests, add/delete/add question to ur tests etc. whenever u create a test & start it after adding required amount of questions this test will be shown in test center page of all user so that they can take that test.
+
+I am Attaching full web application as examonline.zip
+U will need Apache tomcat & Mysql database server to run this solution
+
+Also codes for all java files is attched as codes.zip
+
+Attachments:
+abstract.zip - Absract for Software
+examonline.zip - Application
+codes.zip - Source Codes
+
+Pankaj Batra (BatraPankaj@Net4Engineers.com)
+Vipul Jhawar (VipulJhawar@Net4Engineers.com)
+Jind Institute of Engg & Technology, Jind
+Registration id: tits2317

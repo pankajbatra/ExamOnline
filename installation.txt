@@ -1,0 +1,20 @@
+To run ExamOnline (an online testing Web Application) following steps must be followed 
+1.On a Windows 2000/Linux system 1st install Sun's Java Development Kit (minimum 1.3 version)
+2.Install Apache Tomcat(minimum 4.0 version) & edit server.xml file in <Apache-tomcat-root>/conf (e.g. C:\Program Files\Apache Tomcat 4.0\conf in windows) as follows:
+ Find following entry in server.xml file
+ <!-- Tomcat Root Context -->
+ <!--
+ <Context path="" docBase="ROOT" debug="0" >
+ -->
+ Now change this to 
+ <!-- Tomcat Root Context -->
+ <Context path="" docBase="ROOT" debug="0" reloadable="true">
+ </Context>
+ And save this file.
+3.Install Mysql database server Make a user with username:net4engineers & password: database
+4.Make a new database in mysql with name net4engineers_com
+4.copy all contents of ExamOnline folder given in package to <Apache-tomcat-root>/webapps/ROOT  directory (e.g. C:\Program Files\Apache Tomcat 4.0\webapps\ROOT in windows).
+6.Now start Apache tomact server by starting startup.bat on windows or startup.sh on linux found in <Apache-tomcat-root>/bin directory
+7.Open any internet browser & open a url http://127.0.0.1:8080 in it. U will see Examonline Homepage.
+8. Now create database tables for application by accessing url:    http://127.0.0.1:8080/database/CreateTables.jsp
+7.Now the Web Application is ready to run.

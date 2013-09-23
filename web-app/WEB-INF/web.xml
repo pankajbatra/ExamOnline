@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+<servlet>
+        <servlet-name>
+            AddNewAdmin
+        </servlet-name>
+        <servlet-class>
+            AddNewAdmin
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <servlet-class>
+            RohitServlet
+        </servlet-class>
+</servlet>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+<servlet-mapping>
+        <servlet-name>
+            RohitServlet
+        </servlet-name>
+        <url-pattern>
+            /RohitServlet
+        </url-pattern>
+    </servlet-mapping>
+
+</web-app>

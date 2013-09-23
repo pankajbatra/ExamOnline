@@ -1,0 +1,3 @@
+/web-app/WEB-INF/classes/*.class
+/web-app/WEB-INF/classes/com/vippan/db/*.class
+/web-app/WEB-INF/classes/com/vippan/examonline/admin/*.class

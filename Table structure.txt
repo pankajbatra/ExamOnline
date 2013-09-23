@@ -1,0 +1,73 @@
+
+
+tables are:
+1.admin 
+ aduser char(15) PRIMARY KEY
+ adpasswd char(10) NOT NULL
+
+2.result 
+ username char(20) NOT NULL
+ test_code SMALLINT NOT NULL
+ test_subject_no TINYINT NOT NULL
+ total SMALLINT NOT NULL
+ attempt SMALLINT Not NULL
+ score decimal(4,2) NOT NULL
+ time_taken SMALLINT NOT NULL 
+
+3.global 
+ field char(20) PRIMARY KEY
+ value char(200) NOT NULL
+
+4.users 
+ username char(20) PRIMARY KEY
+ name char(15) NOT NULL
+ middle char(15) DEFAULT NULL
+ last char(15) NOT NULL 
+ passwd char(10) NOT NULL
+ address char(50) NOT NULL
+ city char(20) NOT NULL
+ state char(20) NOT NULL
+ country char(20) NOT NULL
+ pin MEDIUMINT NOT NULL
+ dob DATE NOT NULL
+ sex TINYINT NOT NULL
+ tele BIGINT NOT NULL
+ email char(50) NOT NULL
+ useremin TINYINT NOT NULL
+ useansr char(20) NOT NULL
+
+5.test_master 
+ test_code SMALLINT PRIMARY KEY
+ aduser char(15) NOT NULL  
+ test_name char(20) NOT NULL
+ test_created DATE NOT NULL
+ test_updated DATE NOT NULL
+ test_duration SMALLINT NOT NULL
+ test_status TINYINT NOT NULL
+ test_no_subject TINYINT NOT NULL
+ test_details char(200)
+
+6.test_info
+ table_name char(25) NOT NULL PRIMARY KEY
+ test_code SMALLINT NOT NULL
+ subject_name char(25) NOT NULL
+ subject_no_ques SMALLINT NOT NULL
+
+7.test_<test_code>_<section_no>
+ id int PRIMARY KEY
+ table_statement char(200)
+ table_question char(200) NOT NULL
+ table_image TINYINT
+ table_code char(200)
+ ans_ch_1 char(200) NOT NULL
+ ans_ch_2 char(200) NOT NULL
+ ans_ch_3 char(200) NOT NULL
+ ans_ch_4 char(200) NOT NULL
+ ans_ch_correct TINYINT NOT NULL
+
+8.question_images
+  table_name char(25) NOT NULL
+  id int NOT NULL
+  file_name char(15) NOT NULL
+  image BLOB NOT NULL
+

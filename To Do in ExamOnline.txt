@@ -1,0 +1,46 @@
+note these bugs
+1. if the no. of questions is equal then the test does not start.
+2. the length of the test name and the subject name be increased.
+3.in case of images the answer choice should be allowed blank.
+4.the question field capacity should be increased.
+5.the indentation an alignment of the multiline questions is not right.
+6.space should be allowed in subject field.
+7.the checking of all the test configuration fields be revisited and made linient.
+8.the question paper should appear in new window seperately.
+9.we have to make provisions for the seperate instructions and marking scheme of each question paper.
+10.we should have seperate url for admin and the students.by default only the student login page should occur.
+11.no need to give choice for logging as admin or student.let default be test taker.
+12.we should deploy a seperate test i.e.. servlets for the one mock test where we should give the answers of the questions and then mail the complete paper to the student on his email id.
+13.the time completion be optional.
+14.subject name be optional or default.
+15.make the instructions more clearer in the test config.
+16.make a link for sending comments as mail to us on the left frame.
+17.if their is only one subject then the change subject link should not appear.
+19.in the view questions the current page should not be made available as link only the other pages should be made links.
+20.if user regularly edits questions then he has navigate a lot.link mgmt. should be revisited.
+21.provide the option for nagative marking in the hand of the admin.
+ 
+ 
+please make a folder named bugs and store these reports as bug reports by naming the file as bug+date.txt
+this will help us to keep a check on the bugs and also which one have been corrected.Also we should prepare a table in which every bug should be listed and its current status should be put up.this will help to synchro the work between us also keep a track on them.
+
+
+
+
+
+
+
+
+
+1.make error handler page to catch all exception & session expired pages.
+
+2.add concept of negative marking keep another field in quesion page under 'Don't attempt' name and in new test configuring ask admin if he want to add negative marking if yes how much deduct for each negative answer change database table so add two more field in test_master table with names as test_negative(smallint) 1 or 0 & negative_marks (0.25 to 1.0). change result table's correct field name to score.now in nextquestion & endtest servlet check if answer is correct if yes increment score & attempt.if user selected 'don't attempt' then increment only attempt.else incremnt attempt & decrement score with negative_marks.
+
+3.add a new field in test_master - passing_marks passing marks reqd to pass the test.ask while new test configuration. in end test accordingly show user his pass-falure status . 
+
+4.for deleting test add a new field in test_master flag for deletion delete_flag.make a new servlet delete_tests that loads on startup & delete all tests which are flagged for deletion.
+in User's panel the test with flag set is not shown & in admin panel there should be a link for undelete tests whose flags are set so the test marked for deletion must be shown with different color & there must be a provision for their un-deletion.
+
+5.in forgot passord ask for username & mail his username & password to that email id in database corresponding to that username.
+
+6.add test_date field in result so that when test given can be found & shown in score card
